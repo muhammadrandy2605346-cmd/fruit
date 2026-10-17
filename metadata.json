@@ -1,0 +1,6 @@
+{
+  "name": "FruitVault: 11 Account Game Storage & Inventory Tracker",
+  "description": "Aplikasi manajemen penyimpanan dan pelacak inventory buah untuk 11 akun game dengan fitur tambah, hapus, transfer antar akun, pencarian global, dan statistik kelangkaan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
